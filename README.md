@@ -1,2 +1,2 @@
 # imgselector
-imgselector
+imgselector lib
