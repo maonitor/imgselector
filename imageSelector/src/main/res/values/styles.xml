@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SignInToolbarTheme" parent="Theme.AppCompat.Light">
+        <!-- 设置 toolbar 溢出菜单的文字的颜色 -->
+        <item name="actionMenuTextColor">@color/global_theme_color</item>
+    </style>
+</resources>

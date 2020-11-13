@@ -1,0 +1,3 @@
+include ':imageSelector'
+include ':app'
+rootProject.name = "selectorLib"

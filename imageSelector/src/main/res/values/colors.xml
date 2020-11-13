@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkGray">#333333</color><!--深沉的灰色-->
+    <color name="colorAccent">#168bf2</color>
+    <color name="bottom_bg">#aaaaaa</color>
+    <color name="text_color_default">@color/darkGray</color>
+    <color name="global_theme_color">@color/colorAccent</color>
+</resources>
